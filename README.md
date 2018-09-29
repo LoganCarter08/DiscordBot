@@ -1,0 +1,1 @@
+Discord bot to work with server of friends. Features list coming soon. You will need to import used node.js libraries to run this. And get tokens for Discord api.
