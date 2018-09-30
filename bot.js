@@ -4,7 +4,7 @@ var auth = require('./auth.json');
 var MojangAPI = require('mojang-api');
 
 
-
+//test
 // Configure logger settings
 logger.remove(logger.transports.Console);
 logger.add(new logger.transports.Console, {
